@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="url">http://a.testaddressbook.com</string>
+</resources>
+
